@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: General Contracting, Inc Company Handbook
 ---
 
 This is a blank Quartz installation.
