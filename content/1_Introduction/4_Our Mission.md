@@ -1,5 +1,5 @@
 ---
-title: Our Mission
+title: 3. Our Mission
 draft: false
 ---
 Compass Statement: 
