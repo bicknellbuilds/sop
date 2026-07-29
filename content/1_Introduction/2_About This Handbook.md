@@ -7,3 +7,5 @@ This handbook was developed to provide information about the company’s policie
 This handbook is not a binding contract between the company and its employees and is not intended to alter the at-will employment relationship. It’s also important to remember that this handbook provides general guidelines, and other information, such as benefit plans, will be described in other documents. 
 
 The company reserves the right to modify, rescind, delete, or add to the provisions of this handbook at any time, consistent with applicable law. The company also reserves the right to interpret the policies in this handbook at its discretion.
+
+[[content/index|Previous Page]] | [[3_Employment at Will|Next Page]]
