@@ -1,9 +1,7 @@
 ---
 title: Subcontractor Management
 draft: false
-tags:
-  -
-  
+---
 Subcontractor Management Policy 
 
 The company is committed to maintaining productive and professional relationships with subcontractors, ensuring their compliance with all relevant regulations, project requirements, and company policies. 

@@ -1,9 +1,7 @@
 ---
 title: Sick Time
 draft: false
-tags:
-  -
-  
+---
 Paid Sick Leave 
 
 Full-time employees of the company are eligible to accrue and use paid sick leave. Employees may use sick leave when they must be absent from work due to their own or a family member’s illness, injury, medical appointment, or other health concern that cannot be scheduled outside of working hours. Employees may only use sick leave for the purposes described in this policy. 

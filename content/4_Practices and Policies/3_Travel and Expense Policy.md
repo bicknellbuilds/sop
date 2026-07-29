@@ -1,9 +1,7 @@
 ---
 title: Travel and Expense Policy
 draft: false
-tags:
-  -
-  
+---
 Bicknell Builds’ policy is to reimburse team members for reasonable expenses that occur during travel for business purposes.  Travel must be approved in advance, and all expenses must be submitted for reimbursement within 30 days of the completion of travel. 
 
 It’s important to keep travel expenses reasonable and seek low-cost travel opportunities whenever possible.  Managers are responsible for reviewing and approving expenditures and withholding reimbursement if an inappropriate or extravagant expense is incurred. 

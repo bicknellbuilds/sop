@@ -1,9 +1,7 @@
 ---
 title: Payroll
 draft: false
-tags:
-  -
-  
+---
 Payroll 
 
 All employees of the company are paid bi-weekly. The company takes care to ensure that employees receive the correct amount of pay in each paycheck and that they are paid promptly on the scheduled payday.  Pay periods are 14 days starting Sunday through Saturday.  Paychecks are deposited the Friday following end of the pay period.  

@@ -1,9 +1,7 @@
 ---
-title: Workplace Violence Prevention 
+title: Workplace Violence Prevention
 draft: false
-tags:
-  -
-  
+---
 It is Bicknell Builds’ policy that any threats, threatening language, or any acts of aggression or violence made toward or by any company employee will not be tolerated. Violations of this policy may lead to disciplinary action, up to and including immediate termination of employment. 
 
 Employees have a duty to immediately notify management of any suspicious behavior, concerning situations, or acts of physical violence that they observe or are aware of that involve other employees, former employees, customers, suppliers, visitors, or other parties associated with the company. These situations include, for example, threats or acts of violence, aggressive or intimidating behavior, threatening or offensive comments or remarks, or similar behavior. Employee concerns raised under this policy will be held in confidence to the maximum possible extent.  

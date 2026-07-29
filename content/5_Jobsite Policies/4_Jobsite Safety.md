@@ -1,9 +1,7 @@
 ---
 title: Jobsite Safety
 draft: false
-tags:
-  -
-  
+---
 Safety Protocols for On-Site Work Policy 
 
 Employees are required to follow all safety protocols strictly as outlined in the Bicknell Builds Accident Prevention Program, including the use of personal protective equipment (PPE) relevant to the work at hand.  

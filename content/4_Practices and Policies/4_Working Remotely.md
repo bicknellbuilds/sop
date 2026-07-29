@@ -1,9 +1,7 @@
 ---
 title: Working Remotely
 draft: false
-tags:
-  -
-  
+---
 Remote Work Policy 
 
 Bicknell Builds is committed to enabling remote work when possible, appropriate, and aligned with business needs. Permission to work remotely is at the company's discretion and can be withdrawn at any time. 

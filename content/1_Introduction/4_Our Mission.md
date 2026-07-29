@@ -1,8 +1,6 @@
 ---
 title: Our Mission
 draft: false
-tags:
-  -
 ---
 Compass Statement: 
 

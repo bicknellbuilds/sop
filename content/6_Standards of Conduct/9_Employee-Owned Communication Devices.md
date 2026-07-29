@@ -1,9 +1,7 @@
 ---
-title: Employee-Owned Communication Devices 
+title: Employee-Owned Communication Devices
 draft: false
-tags:
-  -
-  
+---
 The purpose of this policy is to define standards, procedures, and restrictions for employees who have legitimate business reasons for connecting a personally-owned device to the company’s corporate systems or network. 
 
 The policy applies to any hardware and related software that is employee-owned or supplied and is used to access company resources or perform work for the company. The overriding goal of this policy is to protect the integrity of the confidential client and business data that resides within the company’s technology infrastructure.  

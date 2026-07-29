@@ -1,9 +1,7 @@
 ---
-title: Use of Computer and Communication Systems 
+title: Use of Computer and Communication Systems
 draft: false
-tags:
-  -
-  
+---
 Bicknell Builds retains the right to access all company property, including computers, desks, file cabinets, storage facilities, equipment, vehicles, phones, software, files, and folders, electronic or otherwise, at any time. Employees should have no expectation of privacy when on company grounds or while using company property.  
 
 Upon termination, employees are required to surrender any company property they possess. Files or programs stored on company computers may not be copied for personal use. The company’s computer, email, and Internet access systems are for business use only.  

@@ -1,9 +1,7 @@
 ---
 title: Jobsite Security Policy
 draft: false
-tags:
-  -
-  
+---
 This policy is designed to ensure the safety and security of all employees, and company property by maintaining strict building security protocols. Be sure to follow the procedures for managing building security, including visitor management and end-of-day lock-up procedures. 
 
 End-of-Day Lock-Up Procedures: 

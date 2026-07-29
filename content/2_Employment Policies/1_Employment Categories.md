@@ -1,9 +1,7 @@
 ---
 title: Employment Categories
 draft: false
-tags:
-  -
-  
+---
 All employees are designated as either non-exempt or exempt under state and federal wage and hour laws. The following is intended to help employees understand employment classifications, status, and benefit eligibility. These classifications do not guarantee employment for any specified period of time. The right to terminate the employment-at-will relationship at any time is retained by both the employee and Bicknell Builds. 
 
 Each employee is designated as either non-exempt or exempt from federal and state wage and hour laws. Non-exempt employees are typically paid hourly and are entitled to overtime pay under the specific provisions of federal and state laws. Exempt employees are usually paid on a salary basis and are excluded from specific provisions of federal and state wage and hour laws. An employee’s exempt or non-exempt classification may be changed only upon written notification by Bicknell Builds management. 

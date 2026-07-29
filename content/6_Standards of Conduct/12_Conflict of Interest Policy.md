@@ -1,9 +1,7 @@
 ---
-title: Conflict of Interest Policy 
+title: Conflict of Interest Policy
 draft: false
-tags:
-  -
-  
+---
 Employees are expected to act in the best interests of the company and its clients by identifying and managing potential conflicts of interest.  
 
 Disclosure and Documentation 

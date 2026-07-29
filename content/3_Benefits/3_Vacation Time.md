@@ -1,9 +1,7 @@
 ---
 title: Vacation Time
 draft: false
-tags:
-  -
-  
+---
 Paid Time Off 
 
 All regular full-time employees are entitled to accrue personal time off from their date of hire at the rate of 1.54 hours for every 80 hours worked. Part-time and temporary employees are not eligible for vacation time.  

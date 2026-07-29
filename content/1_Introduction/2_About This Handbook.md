@@ -1,8 +1,6 @@
 ---
 title: About This Handbook
 draft: false
-tags:
-  -
 ---
 This handbook was developed to provide information about the company’s policies, practices, programs, and benefits. The handbook applies to all employees. It is important to read, understand, and comply with all handbook provisions. If you have any questions about the handbook, please reach out to Chris Bicknell. 
 

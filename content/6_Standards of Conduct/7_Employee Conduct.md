@@ -1,9 +1,7 @@
 ---
 title: Employee Conduct
 draft: false
-tags:
-  -
-  
+---
 Bicknell Builds expects its employees to behave professionally and with integrity to ensure that the work environment is safe, comfortable, and productive. Employees should be respectful, courteous, and mindful of others’ feelings as it relates to maintaining a professional work environment. 
 
 Behavior that does not reflect the company's values and will not be tolerated includes but is not limited to: 

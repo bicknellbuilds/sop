@@ -1,11 +1,7 @@
 ---
 title: Resignation
 draft: false
-tags:
-  -
-  
-Resignation 
-
+---
 If you decide to resign from your position, we request that you provide written notice to your supervisor of at least 2 weeks. 
 
 During the notice period, you are expected to fulfill your job responsibilities, hand over any pending work or projects, and cooperate in the transition process. Bicknell Builds may, at its discretion, accept your resignation before the completion of the notice period. 

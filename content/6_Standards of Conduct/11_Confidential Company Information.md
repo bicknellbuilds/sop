@@ -1,9 +1,7 @@
 ---
-title: Confidential Company Information 
+title: Confidential Company Information
 draft: false
-tags:
-  -
-  
+---
 The protection of the company’s confidential business information and trade secrets is vital to the interests and success of our organization. “Confidential information” is information belonging to the company but not generally known to the public, including, but not limited to: customer lists and contact information, price lists, financial information, marketing plans, business strategies, and sensitive employee information.  
 
 It is important that all confidential information remains confidential and not be disclosed to others. Any employee who improperly copies, removes (whether physically or electronically), uses, or discloses confidential information to anyone outside of the company without authorization may be subject to disciplinary action up to and including termination.  

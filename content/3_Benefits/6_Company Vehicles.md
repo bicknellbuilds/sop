@@ -1,9 +1,7 @@
 ---
 title: Company Vehicles
 draft: false
-tags:
-  -
-  
+---
 Company Vehicles 
 
 All employees authorized to drive company-owned or leased vehicles, or personal vehicles in conducting company business, must possess a current, valid driver's license, an acceptable driving record, and an appropriate level of insurance. Any change in license status or driving record must be reported to management immediately. A valid driver's license must be in your possession at all times while operating a company vehicle or driving for company business. It is the responsibility of every employee to drive safely and obey all traffic, vehicle safety, and parking laws or regulations. Drivers must demonstrate safe driving habits at all times. Company-owned or leased vehicles may be used only as authorized by management. Employees who drive on company business must abide by all state or local laws prohibiting or limiting portable communication device use, including cell phones, tablets, and other devices while driving. Further, even if use is permitted, company policy requires hands-free cell phone use only. 
