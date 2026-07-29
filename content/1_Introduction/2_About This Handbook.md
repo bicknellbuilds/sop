@@ -1,6 +1,6 @@
 ---
 title: About This Handbook
-draft: true
+draft: false
 tags:
   -
 ---
