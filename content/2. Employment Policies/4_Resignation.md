@@ -11,3 +11,5 @@ Return of Company Property 
 Upon separation from Bicknell Builds, employees must return all company property, including identification badges, access cards, laptops, mobile devices, keys, equipment, confidential information, and any other items issued to them during their employment. Failure to return company property may result in the withholding of final wages and legal action to recover the property. 
 
 Employees are responsible for ensuring that their personal belongings are removed from company premises and that no confidential or proprietary information is taken or retained.
+
+[[3_Performance Reviews|Previous Page]] | [[1_Benefits Overview|Next Page]]

@@ -1,6 +1,7 @@
 ---
 title: 4. Equal Employment Opportunity
 draft: false
+password: test123
 ---
 Bicknell Builds is an equal opportunity employer and does not discriminate against employees or applicants on the basis of an individual’s race, sex (including pregnancy, gender identity, and sexual orientation), color, religion, national origin, age, disability, military or veteran status, or any other status protected by applicable law. This policy applies to all aspects of employment, including recruitment, hiring, placement, compensation, promotion, discipline, and termination. 
 

@@ -11,3 +11,5 @@ Regular Full-Time: Employees who are not in temporary or probationary status and
 Regular Part-Time: Employees who are hired for an indefinite period, but who work less than a full-time schedule. These employees may work irregular hours, regularly scheduled hours every workday, or full workdays but less than 5 days per week. Part-time employment at the company means scheduled work of less than 40 hours per week. Regular part-time employees may be eligible for some company benefits. 
 
 Short-Term Employee: A “short-term employee” means an individual whose employment is limited in duration and is hired for a specific short-term project, or on a temporary basis. Short-term employees are not eligible for company benefits unless required by applicable law.
+
+[[5_Equal Employment Opportunity|Previous Page]] | [[2_Introductory Period|Next Page]]

@@ -1,6 +1,7 @@
 ---
 title: 3. Our Mission
 draft: false
+password: test123
 ---
 Compass Statement: 
 
