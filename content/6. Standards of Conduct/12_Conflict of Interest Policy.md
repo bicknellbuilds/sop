@@ -14,4 +14,4 @@ Employees must avoid any actions that could create the appearance of a conflict 
 
 Employees should maintain records of disclosed conflicts and actions taken to mitigate them. This documentation helps ensure transparency and accountability.
 
-[[11_Confidential Company Information|Previous Page]] | [[content/index|Back to Beginning]]
+[[11_Confidential Company Information|Previous Page]] |

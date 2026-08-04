@@ -9,4 +9,4 @@ This handbook is not a binding contract between the company and its employees an
 
 The company reserves the right to modify, rescind, delete, or add to the provisions of this handbook at any time, consistent with applicable law. The company also reserves the right to interpret the policies in this handbook at its discretion.
 
-[[bicknellbuilds.github.io/handbook|Previous]] | [[2_Employment at Will|Next Page]]
+| [[2_Employment at Will|Next Page]]
