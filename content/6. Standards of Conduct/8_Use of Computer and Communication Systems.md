@@ -23,3 +23,5 @@ Dissemination of proprietary or confidential company information without appropr
 Use of company computers for entertainment purposes such as playing online gambling or accessing pornographic sites is prohibited. 
 
 We ask that you use your best efforts to physically secure company equipment against loss, theft, or use by persons who have not been authorized to access our devices. In the event that any company device is subject to theft, please report it stolen immediately.
+
+[[7_Employee Conduct|Previous Page]] | [[9_Employee-Owned Communication Devices|Next Page]]

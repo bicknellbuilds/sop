@@ -9,3 +9,5 @@ The company prohibits harassment or discriminatory behavior that is offensive, a
 This policy applies to all employees and also applies to all interactions with independent contractors, temporary employees, and anyone else working with the company. 
 
 If you feel that you have been subjected to conduct that violates this policy, you should immediately report the matter to your manager.
+
+[[7_Jobsite Security Policy|Previous Page]] | [[2_Sexual Harassment|Next Page]]

@@ -7,3 +7,5 @@ The protection of the company’s confidential business information and trade se
 It is important that all confidential information remains confidential and not be disclosed to others. Any employee who improperly copies, removes (whether physically or electronically), uses, or discloses confidential information to anyone outside of the company without authorization may be subject to disciplinary action up to and including termination.  
 
 In the event of inadvertent disclosure of confidential information, employees must immediately report the nature of the disclosure and the information disclosed to management.
+
+[[10_Workplace Searches|Previous Page]] | [[12_Conflict of Interest Policy|Next Page]]

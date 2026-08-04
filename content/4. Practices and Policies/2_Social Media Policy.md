@@ -7,3 +7,5 @@ Information published on any social networking site should not reveal any confid
 Employees should not post content about the company, management, co-workers, or customers that is discriminatory, libelous, or threatening or a violation of the company's policies against discrimination on account of race, age, religion, sex, ethnicity, nationality, sexual orientation, gender identity, disability, or other protected class, status or characteristic. Published information should not reveal confidential information, nor may it disclose any trade secret. Bicknell Builds logos and trademarks may not be used without the written consent of an officer of Bicknell Builds. 
 
 If unsafe conditions are seen, please report them to your supervisor and/or address the safety concern immediately yourself.  Posting of unsafe work is potential grounds for termination.
+
+[[1_Discipline Policy|Previous Page]] | [[3_Travel and Expense Policy|Next Page]]

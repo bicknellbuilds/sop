@@ -13,3 +13,5 @@ When a potential conflict of interest is identified, the employee must report it
 Employees must avoid any actions that could create the appearance of a conflict of interest. This includes accepting gifts, favors, or other benefits from clients or vendors that could influence professional judgment. Any offers of gifts or benefits must be reported to a supervisor. 
 
 Employees should maintain records of disclosed conflicts and actions taken to mitigate them. This documentation helps ensure transparency and accountability.
+
+[[11_Confidential Company Information|Previous Page]] | [[content/index|Back to Beginning]]

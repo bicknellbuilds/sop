@@ -15,3 +15,5 @@ Paid Family and Medical Leave 
 Eligible employees may qualify for benefits under Washington Paid Family and Medical Leave (PFML). 
 
 Questions regarding eligibility should be directed to management.
+
+[[3_Vacation Time|Previous Page]] | [[5_Health Insurance|Next Page]]

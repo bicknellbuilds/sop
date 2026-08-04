@@ -1,7 +1,6 @@
 ---
 title: 3. Vacation Time
 draft: false
-noteorder: "3"
 ---
 Paid Time Off 
 

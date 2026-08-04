@@ -25,3 +25,5 @@ Exempt and Non-exempt employees must keep accurate records of time worked. Non-e
 Altering, falsifying, or tampering with time records, as well as recording time on another employee’s time record, may result in disciplinary action, up to and including termination of employment. 
 
 It is your responsibility to certify the accuracy of all time recorded. Any errors in your time record should be reported immediately to your manager.
+
+[[5_Employment Records|Previous Page]] | [[7_Breaks|Next Page]]

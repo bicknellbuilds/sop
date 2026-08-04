@@ -9,3 +9,5 @@ End-of-Day Lock-Up Procedures: 
 Securing Entrances: At the end of each workday, designated employees must ensure all entrances and exits are securely locked. This includes checking that all doors and windows are closed and locked. 
 
 Work closely with your project manager to ensure a site specific security plan is in place to protect from theft.
+
+[[6_Customer Property and Worksite Care|Previous Page]] | [[1_Non Harassment Non Discrimination Policy|Next Page]]
