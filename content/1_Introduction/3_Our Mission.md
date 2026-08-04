@@ -37,4 +37,4 @@ At Bicknell Builds, we believe in teams that collaborate with honesty and respec
 
 • To work to evolve every day, in terms of our skills, our relationships and ourselves.
 
-[[content/1_Introduction/2_Employment at Will|Previous Page]] | [[content/1_Introduction/4_Equal Employment Opportunity|Next Page]]
+[[2_Employment at Will|Previous Page]] | [[4_Equal Employment Opportunity|Next Page]]

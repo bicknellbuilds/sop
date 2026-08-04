@@ -9,4 +9,4 @@ Bicknell Builds is committed to complying with all applicable provisions of the 
 
 Any employee or job applicant who has questions regarding this policy, would like to request an accommodation, or believes they have been discriminated against, should reach out to Chris Bicknell. Any individual who reports conduct in violation of this policy or participates in an investigation will not be retaliated against.
 
-[[content/1_Introduction/3_Our Mission|Previous Page]] | [[1_Employment Categories|Next Page]]
+[[3_Our Mission|Previous Page]] | [[1_Employment Categories|Next Page]]
