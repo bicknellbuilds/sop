@@ -1,0 +1,12 @@
+---
+title: 4. Equal Employment Opportunity
+draft: false
+password: test123
+---
+Bicknell Builds is an equal opportunity employer and does not discriminate against employees or applicants on the basis of an individual’s race, sex (including pregnancy, gender identity, and sexual orientation), color, religion, national origin, age, disability, military or veteran status, or any other status protected by applicable law. This policy applies to all aspects of employment, including recruitment, hiring, placement, compensation, promotion, discipline, and termination. 
+
+Bicknell Builds is committed to complying with all applicable provisions of the Americans with Disabilities Act (ADA) and relevant state laws. Our policy is not to discriminate against any qualified employee or applicant because of their disability. Consistent with this policy of non-discrimination, the company will evaluate requests for accommodation through an “interactive process” and will provide a reasonable accommodation to a qualified individual with a disability, allowing them to perform the essential functions of their job, provided such accommodation does not constitute an undue hardship to the company. The company reserves the right to propose an alternative accommodation, so long as such accommodation is equally effective in accommodating the disability. 
+
+Any employee or job applicant who has questions regarding this policy, would like to request an accommodation, or believes they have been discriminated against, should reach out to Chris Bicknell. Any individual who reports conduct in violation of this policy or participates in an investigation will not be retaliated against.
+
+[[content/1_Introduction/3_Our Mission|Previous Page]] | [[1_Employment Categories|Next Page]]

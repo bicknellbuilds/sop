@@ -12,4 +12,4 @@ Regular Part-Time: Employees who are hired for an indefinite period, but who wor
 
 Short-Term Employee: A “short-term employee” means an individual whose employment is limited in duration and is hired for a specific short-term project, or on a temporary basis. Short-term employees are not eligible for company benefits unless required by applicable law.
 
-[[content/1_Introduction/4_Equal Employment Opportunity|Previous Page]] | [[2_Introductory Period|Next Page]]
+[[content/1_Introduction/4_Equal Employment Opportunity|Previous Page]] | [[Bicknell Company Handbook/2. Employment Policies 1/2_Introductory Period|Next Page]]
