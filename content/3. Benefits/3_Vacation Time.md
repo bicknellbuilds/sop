@@ -14,3 +14,5 @@ In order to use vacation time, employees must have accrued vacation time availab
 If a company-observed holiday falls during your use of vacation time, you will receive holiday pay for the day, and the day will not be charged to your accrued vacation time. Vacation time will be paid at the employee’s regular straight-time rate of pay or base salary for the approved vacation period. 
 
 Once approved, vacation time must be submitted to our team's calendars by meeting invite with the employee's name and PTO in the subject line.  You must also enter your PTO into your time card.
+
+[[2_Holidays|Previous Page]] | [[4_Sick Time|Next Page]]

@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: solder_mary.github.io/quartz-test
+  baseUrl: bicknellbuilds.github.io/handbook
   ignorePatterns:
     - private
     - templates
