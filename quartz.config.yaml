@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Bicknell Builds Company Handbook
+  pageTitle: Bicknell Builds Standard Operating Procedures
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bicknellbuilds.github.io/handbook
+  baseUrl: bicknellbuilds.github.io/sop
   ignorePatterns:
     - private
     - templates
