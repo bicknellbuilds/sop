@@ -1,14 +1,16 @@
 ---
-title: Bicknell Builds Standard Operating Procedure
-draft: false
+title: 1.Introduction
 ---
+**Standard Operating Procedure (SOP)**
+
 **Residential Remodel Project Delivery**
 
 **Purpose**
 
 To provide a standardized process to consistently deliver successful projects.
 
-    
+  
+  
 
 **Scope**
 
